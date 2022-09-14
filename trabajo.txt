@@ -4,4 +4,7 @@ dias de la semana
 lunes
 martes 
 miercoles
-jueves viernes
+jueves 
+viernes
+sabado 
+domingo
